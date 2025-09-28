@@ -1,0 +1,4 @@
+messages:
+  - role: user
+    content: mây mù biết em
+model: openai/gpt-4o
